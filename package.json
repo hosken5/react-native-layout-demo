@@ -1,0 +1,13 @@
+{
+  "name": "layout_demo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "react-native": "^0.9.0",
+    "react-native-navbar": "^0.8.2",
+    "tcomb-form-native": "^0.2.6"
+  }
+}
